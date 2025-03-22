@@ -69,7 +69,16 @@ https://github.com/user-attachments/assets/e80e1526-4313-4c7f-a2b8-c3605ca3d14a
 
 2. Fixed mouse embryo (Blasto stage)
 
+
+https://github.com/user-attachments/assets/698d7b98-5a1b-4d2b-9e15-9b340b7cee34
+
+
 3. 3D Pathology slide
+
+
+https://github.com/user-attachments/assets/f2f840c4-eb97-48ce-8a05-ca1743f14f99
+
+
 
 ## Contact
 For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
