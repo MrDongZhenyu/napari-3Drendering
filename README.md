@@ -63,6 +63,10 @@ Please download the data and put them in the 'Data' folder. The data link will b
 ## Example results
 1. Fixed mouse embryo (Eight cell stage)
 
+
+https://github.com/user-attachments/assets/e80e1526-4313-4c7f-a2b8-c3605ca3d14a
+
+
 2. Fixed mouse embryo (Blasto stage)
 
 3. 3D Pathology slide
