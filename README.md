@@ -17,10 +17,10 @@ Top-level folder structure:
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Data source](#datasource)
-- [Example results](#demo)
+- [Data source](#data-source)
+- [Example results](#example-results)
 - [Contact](#contact)
-- [Citing the code](#cite)
+- [Citing the code](#citing-the-code)
 
 ## Introduction
 * This code is designed for 3D rendering in Napari and provides several key functionalities:
