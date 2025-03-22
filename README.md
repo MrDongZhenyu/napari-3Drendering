@@ -25,7 +25,7 @@ Top-level folder structure:
 ## Introduction
 * This code is designed for 3D rendering in Napari and provides several key functionalities:
 
-    1. Add multiple 3D objects with Maximum Intensity Projection (MIP) rendering or other rendering.
+    1. Add multiple 3D objects with Maximum Intensity Projection (MIP) rendering or other renderings.
 
     2. Customize colormaps for different channels.
 
