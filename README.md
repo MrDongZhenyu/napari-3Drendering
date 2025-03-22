@@ -20,6 +20,7 @@ Top-level folder structure:
 - [Data source](#datasource)
 - [Example results](#demo)
 - [Contact](#contact)
+- [Cite the code](#cite)
 
 ## Introduction
 * This code is designed for 3D rendering in Napari and provides several key functionalities:
@@ -83,4 +84,6 @@ https://github.com/user-attachments/assets/f2f840c4-eb97-48ce-8a05-ca1743f14f99
 ## Contact
 This code is written and maintained by Zhenyu Dong. For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
 
+## Citing the code
 
+If the code was helpful to your work, please consider citing it:
