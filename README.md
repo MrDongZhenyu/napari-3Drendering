@@ -20,7 +20,7 @@ Top-level folder structure:
 - [Data source](#datasource)
 - [Example results](#demo)
 - [Contact](#contact)
-- [Cite the code](#cite)
+- [Citing the code](#cite)
 
 ## Introduction
 * This code is designed for 3D rendering in Napari and provides several key functionalities:
