@@ -81,6 +81,6 @@ https://github.com/user-attachments/assets/f2f840c4-eb97-48ce-8a05-ca1743f14f99
 
 
 ## Contact
-For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
+This code is written and maintained by Zhenyu Dong. For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
 
 
