@@ -59,7 +59,7 @@ Top-level folder structure:
 * Note: After installing the `napari_bbox` plugin, open the file `qt_bounding_box_control.py` in the installation folder, and comment out the lines that import or use the `QSlider` module.
 
 ## Data source
-Please download the data and put them in the 'Data' folder. The [data link]() will be opened later on. The data are stored as `.h5` file.
+Please download the data and put them in the 'Data' folder. The data are stored as `.h5` file in `Data/Reconstruction` folder in [Data link](https://osf.io/f7tqa/).
 
 ## Example results
 1. Fixed mouse embryo (Eight cell stage)
