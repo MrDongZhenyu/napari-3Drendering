@@ -86,4 +86,11 @@ This code is written and maintained by Zhenyu Dong. For any questions or comment
 
 ## Citing the code
 
-If the code was helpful to your work, please consider citing it:
+If the code was helpful to your work, please consider citing it (BiBTex):
+```
+@software{Dong_napari-3Drendering,
+author = {Dong, Zhenyu},
+title = {{napari-3Drendering}},
+url = {https://github.com/MrDongZhenyu/napari-3Drendering}
+}
+```
