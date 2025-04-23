@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: napari-3Drendering
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Zhenyu
+    family-names: Dong
+    email: zdong@caltech.edu
+    affiliation: Caltech
+    orcid: 'https://orcid.org/0009-0003-4507-8493'
+repository-code: 'https://github.com/MrDongZhenyu/napari-3Drendering'
+abstract: >-
+  This repository contains the codes and examples for
+  generating 3D renderings using Napari.
+keywords:
+  - Napari
+  - 3D rendering
