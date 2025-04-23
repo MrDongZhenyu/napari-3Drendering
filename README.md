@@ -17,14 +17,15 @@ Top-level folder structure:
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Data source](#datasource)
-- [Example results](#demo)
+- [Data source](#data-source)
+- [Example results](#example-results)
 - [Contact](#contact)
+- [Citing the code](#citing-the-code)
 
 ## Introduction
 * This code is designed for 3D rendering in Napari and provides several key functionalities:
 
-    1. Add multiple 3D objects with Maximum Intensity Projection (MIP) rendering or other rendering.
+    1. Add multiple 3D objects with Maximum Intensity Projection (MIP) rendering or other renderings.
 
     2. Customize colormaps for different channels.
 
@@ -58,16 +59,31 @@ Top-level folder structure:
 * Note: After installing the `napari_bbox` plugin, open the file `qt_bounding_box_control.py` in the installation folder, and comment out the lines that import or use the `QSlider` module.
 
 ## Data source
-Please download the data and put them in the 'Data' folder. The data link will be opened later on. The data are stored as `.h5` file.
+Please download the data and put them in the 'Data' folder. The [data link]() will be opened later on. The data are stored as `.h5` file.
 
 ## Example results
 1. Fixed mouse embryo (Eight cell stage)
 
+
+https://github.com/user-attachments/assets/e80e1526-4313-4c7f-a2b8-c3605ca3d14a
+
+
 2. Fixed mouse embryo (Blasto stage)
+
+
+https://github.com/user-attachments/assets/698d7b98-5a1b-4d2b-9e15-9b340b7cee34
+
 
 3. 3D Pathology slide
 
+
+https://github.com/user-attachments/assets/f2f840c4-eb97-48ce-8a05-ca1743f14f99
+
+
+
 ## Contact
-For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
+This code is written and maintained by Zhenyu Dong. For any questions or comments about this code, please contact [zdong@caltech.edu](mailto:zdong@caltech.edu).
 
+## Citing the code
 
+If the code was helpful to your work, please consider citing it:
