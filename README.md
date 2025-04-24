@@ -2,8 +2,7 @@
 
 This repository contains the codes and examples for generating 3D renderings using Napari, a fast, interactive, multi-dimensional image viewer for Python. While Napari is a powerful tool, there is a lack of comprehensive tutorials that provide a systematic approach for visualizing 3D data and creating videos, particularly for scientific papers. This repository aims to fill that gap.
 
-Note: This repository is also used to generate 3D visualizations in the Analytic Fourier Ptychotomography (AFP) paper. [Paper link]() 
-
+Note: This repository is also used to generate 3D visualizations in the Analytic Fourier Ptychotomography (AFP) paper. [Paper link](https://arxiv.org/abs/2504.16247), [Project page](https://mrdongzhenyu.github.io/AFP-Web/).
 
 Top-level folder structure:
 
